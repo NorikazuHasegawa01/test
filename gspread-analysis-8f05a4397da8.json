@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "gspread-analysis",
+  "private_key_id": "8f05a4397da8f78537984ae4a6fdf07b6ba111d5",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvAIBADANBgkqhkiG9w0BAQEFAASCBKYwggSiAgEAAoIBAQDPwHpqHA+uCrUx\nw0OUeZ7Mm/pm9UZPB0M17YvJG54IRmxR+ZjSlj/LOeFwZuexBv4+uJDCF4eFKGR3\nk/de/oYKXS37L/RrqofDaYI9mqVejSTSdwow2c6a+Iq68Sw/CnkB3qN+RMj9u9BO\n8xK4fZlsKe9jObNVA6fWoHENCPCyfMTi8g/nSFhhWUcmIQ8SFxsm83+NMcvkCmZC\ns6wcsuz4SCkuHH3hkBIhbU4b8K1SYdVM5ztTSwBPGy/mdn2mFLdTW3zOmQJeuKGZ\nxDdi6j3auX7wZyKUY1KNXUJZhgVmi+yn5YfIE8b1P4uA+wDJJQpagJY2ybv7DOJ5\nKVrs6p4RAgMBAAECggEACxt1eAeay4FxTVEtI2qqs7IJrdhCe25uGJukD/sg5Hye\nZTYY5nZnv/3u2Id57vAqpvAPdj8TjOobT/zaWor1X+e6Mf4u/VQjWM5i6xgB7CeT\n7sg0RGcauZSc9zB2fwLYdCIC//jdvZodYaEzkKdPbPXjgXy34q1Uu3/9t1aRZtt1\n4mTIEne8uEpX8LakRTkG/iEvVMzhmo/9ZbY7GhHfWtYaMtoZOI7OI+oB3cx0loLJ\n8lpvKDplNxlsjXkihzua+7t8HJteEEkFI7Y+gKfHXV5EtuvUKbb+6aYBPbrvzgVv\nDfuLT7Mte6WrS3pSgduU/naMOXtI+0Pn+OgXeSIwgQKBgQD35/tE+I/ygTNs7y4f\nEho42Q8c/X0rdU9xqDITFXpjFG7kzBFeQhvln3+TglrQ3RZTwLZbCAFrN5pKYjVs\nc+as1IgsfQXd/Wplmd2qj7gQp19hcdeywDe7XZaE6Oy8/dkI0FjOfPacXPc4lHsE\nhGk0xhSNL3TyfWPNRQ1bBju4wQKBgQDWiOJIdk9SNfRatU28h1A5C3Tp34mjAMGN\nYTBbepsYeTVw/ZtxZ4EzcQgJwizaHRA4J9cCWO2L9Z62huqWzwG45aTr8W0/PMvA\nTpjJkKlihBW7d8fX+bZoevjlXooaBt6hXJjzB/PYehQbbCrL17gAD+AbnupytTR1\nZOj71r5pUQKBgGTdjV21qJPpv6u98U0RB3xDzKNl/Ay3kVhUL/OV1JMFmE0dPp/U\nVBdsevLgoeTDX7c5/LgzHKisGenT5Zq32Y5Odw1q3P1Cg4zNOuSPzztvbh5uvG1t\nSf/BB2ISh2gp/KlaZBe3vntGVAxAVYE0Ar5HLct4GKQlIns9cj6r3ZbBAoGAXQeA\nsJF1Nh4ldww1yHIY7JO2QBBqO+ABDpC9in2xMbyl2vhuZo/OrALwzGKCVpbRyLgl\n+WOcptt81oPMyFa91XLnwFSx3gE8DYlHoeh0Oz8xuVhotZQYcFgbBEOpuT2PXwOr\nY3/oUtAlVfri2AAUTxqTQQb5fYJsXBfFHCfz6/ECgYBYylTaOmowIDlds3Rq+8MZ\nz2D22xhFbNbFKQWnUz6LDnoFU3kAXf3neeWR+xfH1FRKdnhqvnJOen2NoQwnrM4W\n7XaMuM1xJL4UhJdgHfi+fdef95kCHnrR90Q0zBZtxA/1tzKvrG53WU/lWfPjMRiI\nIHd9zsz0mCIDG43r2XKBFg==\n-----END PRIVATE KEY-----\n",
+  "client_email": "azit-analytics@gspread-analysis.iam.gserviceaccount.com",
+  "client_id": "106758871555648088046",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/azit-analytics%40gspread-analysis.iam.gserviceaccount.com"
+}
